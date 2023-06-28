@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lejhro/static/css/main.76743652.css",
+    "main.css": "/lejhro/static/css/main.a3f00f65.css",
     "main.js": "/lejhro/static/js/main.37a7f94b.js",
     "static/js/787.823ac1d5.chunk.js": "/lejhro/static/js/787.823ac1d5.chunk.js",
     "index.html": "/lejhro/index.html",
-    "main.76743652.css.map": "/lejhro/static/css/main.76743652.css.map",
+    "main.a3f00f65.css.map": "/lejhro/static/css/main.a3f00f65.css.map",
     "main.37a7f94b.js.map": "/lejhro/static/js/main.37a7f94b.js.map",
     "787.823ac1d5.chunk.js.map": "/lejhro/static/js/787.823ac1d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76743652.css",
+    "static/css/main.a3f00f65.css",
     "static/js/main.37a7f94b.js"
   ]
 }
